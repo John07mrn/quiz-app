@@ -9,6 +9,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .quiz-container {
@@ -51,4 +52,9 @@ button {
 .info {
     background-color: orange;
 } 
+
+.right {
+    color: rgb(39, 94, 39);
+    font-weight: bold;
+}
 
