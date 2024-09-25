@@ -40,3 +40,15 @@ li {
    margin: 1rem 0 1rem 0;
 }
 
+button {
+    padding: 10px 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(91, 91, 234);
+    color: white;
+}
+
+.info {
+    background-color: orange;
+} 
+
